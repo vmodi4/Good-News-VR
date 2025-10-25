@@ -69,3 +69,5 @@ async def get_good_news():
 # two helper functions:
 
 # first will call the database client t o
+
+#print("Database client imported successfully")
