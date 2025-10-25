@@ -17,10 +17,22 @@ api = os.getenv("GEMINI_API_KEY")
 
 app = FastAPI()
 
+used_ids = set()  
+# this will track which have been used- regardless of the function call
 
 @app.get("/")
 async def get_good_news():
     all_snippets = supabase.table("Snippets").select("*").execute()
+    
+    snippets = [snippet for snippet in all_snippets.data if snippet['id'] not in used_ids]
+
+    selected = random.sample(snippets, min(3, len(snippets)))
+    for snippet in selected:
+        used_ids.add(snippet['id'])
+
+        
+    
+    
     # need to only get 2-3 snippets, load them in the background
 
     
@@ -33,7 +45,7 @@ async def get_good_news():
 
     # now create prompt
 
-    prompt = f"If I just give you a snippet of good news- like a headline(for example: Google has progressed in Quantum computing by creating an echo algorithm- could you perform RAG and get more information regarding this by making an output that is in JSON- and since JSON follows key value semantics here is an example: headline: - this will the first key, it will take the snippet of good information given and make it sound more good, the second key, third, and fourth key will represent more information - and each key will only have one extra sentence of information(5-10 words). Also, the headline should be around the same length. Here are the snippets: {all_snippets}  "
+    prompt = f"If I just give you a snippet of good news- like a headline(for example: Google has progressed in Quantum computing by creating an echo algorithm- could you perform RAG and get more information regarding this by making an output that is in JSON- and since JSON follows key value semantics here is an example: headline: - this will the first key, it will take the snippet of good information given and make it sound more good, the second key, third, and fourth key will represent more information - and each key will only have one extra sentence of information(5-10 words). Also, the headline should be around the same length. Here are the snippets: {selected}  "
     # try this for now.
 
     client = genai.Client(api_key=api)
