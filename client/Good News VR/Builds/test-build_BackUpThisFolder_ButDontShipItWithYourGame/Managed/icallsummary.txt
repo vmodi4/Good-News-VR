@@ -329,9 +329,7 @@ UnityEngine.Application::set_targetFrameRate
 UnityEngine.Application::get_platform
 UnityEngine.AudioSettings::StartAudioOutput
 UnityEngine.AudioSettings::StopAudioOutput
-UnityEngine.AudioSource::PlayHelper_Injected
 UnityEngine.AudioSource::PlayOneShotHelper_Injected
-UnityEngine.AudioSource::Play_Injected
 UnityEngine.AudioSource::set_loop_Injected
 UnityEngine.AudioSource::set_playOnAwake_Injected
 UnityEngine.Awaitable::IsNativeAwaitableCompleted
@@ -1042,7 +1040,6 @@ UnityEngine.ObjectGUIState::Internal_Destroy
 UnityEngine.ParticleSystem::EmitOld_Internal_Injected
 UnityEngine.ParticleSystem::Emit_Injected
 UnityEngine.ParticleSystem::Emit_Internal_Injected
-UnityEngine.ParticleSystem::Play_Injected
 UnityEngine.ParticleSystem::SetParticles_Injected
 UnityEngine.ParticleSystem/MainModule::get_startColorBlittable_Injected
 UnityEngine.ParticleSystem/MainModule::get_startSizeBlittable_Injected
