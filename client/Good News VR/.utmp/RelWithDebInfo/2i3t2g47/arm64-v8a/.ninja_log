@@ -1,0 +1,10 @@
+# ninja log v5
+1	1055	1761411424798377360	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	40233780d3075a5a
+2	1061	1761411424804357697	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	de4fa701c4a042a3
+1	1132	1761411424875222321	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	9a51c82d9cca4749
+3	1134	1761411424877144710	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e45267e16cf2ae23
+1	1183	1761411424929494859	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ce2db3abe91b483c
+3	1202	1761411424949016425	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	50c7fe84b243861c
+2	1343	1761411425091507761	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d177e1001ca331db
+1	1425	1761411425173941846	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	259374ddbed26e71
+1425	1539	1761411425290393317	/Users/bendomine/Documents/Coding/Good-News-VR/client/Good News VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2i3t2g47/obj/arm64-v8a/libgame.so	341fe2f0c9b9a48

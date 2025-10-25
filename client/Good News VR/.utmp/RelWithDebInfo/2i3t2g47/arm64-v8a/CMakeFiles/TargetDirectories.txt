@@ -1,0 +1,5 @@
+/Users/bendomine/Documents/Coding/Good-News-VR/client/Good News VR/.utmp/RelWithDebInfo/2i3t2g47/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/bendomine/Documents/Coding/Good-News-VR/client/Good News VR/.utmp/RelWithDebInfo/2i3t2g47/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/bendomine/Documents/Coding/Good-News-VR/client/Good News VR/.utmp/RelWithDebInfo/2i3t2g47/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/bendomine/Documents/Coding/Good-News-VR/client/Good News VR/.utmp/RelWithDebInfo/2i3t2g47/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/bendomine/Documents/Coding/Good-News-VR/client/Good News VR/.utmp/RelWithDebInfo/2i3t2g47/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

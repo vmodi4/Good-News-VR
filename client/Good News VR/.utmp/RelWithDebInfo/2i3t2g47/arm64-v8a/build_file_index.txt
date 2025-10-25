@@ -1,0 +1,2 @@
+/Users/bendomine/Documents/Coding/Good-News-VR/client/Good News VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/bendomine/Documents/Coding/Good-News-VR/client/Good News VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
