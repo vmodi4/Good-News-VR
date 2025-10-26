@@ -323,3 +323,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+## AUDIO FILES
+audio_cache
+audio_cache/
