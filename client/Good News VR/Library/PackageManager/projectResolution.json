@@ -1,19 +1,19 @@
 {
   "context": {
-    "projectPath": "C:/Users/pr0gr/Documents/CS/Good-News-VR/client/Good News VR/Packages",
+    "projectPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Packages",
     "unityVersion": "6000.2.9f1"
   },
   "inputs": [
-    "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Packages\\manifest.json",
-    "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Packages\\packages-lock.json",
-    "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
+    "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Packages/manifest.json",
+    "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Packages/packages-lock.json",
+    "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
     "com.unity.2d.sprite@1.0.0": {
       "name": "com.unity.2d.sprite",
       "displayName": "2D Sprite",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.2d.sprite@331abd9a1e2f",
-      "fingerprint": "331abd9a1e2ff424a1ef2626e16936071ab7ce3d",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.2d.sprite@ec779eb7e23a",
+      "fingerprint": "ec779eb7e23a28a2548503f223b3ca124d5d91db",
       "editorCompatibility": "2019.2.0a1",
       "version": "1.0.0",
       "source": "builtin",
@@ -22,7 +22,7 @@
     "com.unity.feature.development@1.0.2": {
       "name": "com.unity.feature.development",
       "displayName": "Engineering",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.feature.development@767aadbc6eb7",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.feature.development@767aadbc6eb7",
       "fingerprint": "767aadbc6eb72681a4ca807c8fa248e0230a0cef",
       "version": "1.0.2",
       "source": "builtin",
@@ -31,7 +31,7 @@
     "com.unity.inputsystem@1.14.2": {
       "name": "com.unity.inputsystem",
       "displayName": "Input System",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.inputsystem@be6c4fd0abf5",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.inputsystem@be6c4fd0abf5",
       "fingerprint": "be6c4fd0abf5b9b45f956b97294032a67f3c2f4d",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.14.2",
@@ -41,7 +41,7 @@
     "com.unity.learn.iet-framework@5.0.2": {
       "name": "com.unity.learn.iet-framework",
       "displayName": "Tutorial Framework",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.learn.iet-framework@c18a35c1d1a1",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.learn.iet-framework@c18a35c1d1a1",
       "fingerprint": "c18a35c1d1a104da89f97a15f3ef7fc112ec49d6",
       "editorCompatibility": "2021.3.0a1",
       "version": "5.0.2",
@@ -51,8 +51,8 @@
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "displayName": "Multiplayer Center",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.multiplayer.center@f3fb577b3546",
-      "fingerprint": "f3fb577b3546594b97b8cc34307cd621f60f1c73",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.multiplayer.center@f5e57a8bed06",
+      "fingerprint": "f5e57a8bed0637672c58142b1bfd7e6fea03746c",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
       "source": "builtin",
@@ -61,8 +61,8 @@
     "com.unity.render-pipelines.universal@17.2.0": {
       "name": "com.unity.render-pipelines.universal",
       "displayName": "Universal Render Pipeline",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.render-pipelines.universal@bc6f352be672",
-      "fingerprint": "bc6f352be672eba8ef5526e9dda488edc330c691",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.render-pipelines.universal@9a83329af09c",
+      "fingerprint": "9a83329af09c9e6fbd466bdf28a02bd4bcea526c",
       "editorCompatibility": "6000.2.0a1",
       "version": "17.2.0",
       "source": "builtin",
@@ -71,7 +71,7 @@
     "com.unity.timeline@1.8.9": {
       "name": "com.unity.timeline",
       "displayName": "Timeline",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.timeline@6b9e48457ddb",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.timeline@6b9e48457ddb",
       "fingerprint": "6b9e48457ddb4f64813d77fd77efc79a8f3102ae",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.8.9",
@@ -81,7 +81,7 @@
     "com.unity.xr.androidxr-openxr@1.0.1": {
       "name": "com.unity.xr.androidxr-openxr",
       "displayName": "Unity OpenXR Android XR",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.xr.androidxr-openxr@077cd026549f",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.xr.androidxr-openxr@077cd026549f",
       "fingerprint": "077cd026549fc3a57aa474caaffb5c347e5ca568",
       "editorCompatibility": "6000.0.23f1",
       "version": "1.0.1",
@@ -91,7 +91,7 @@
     "com.unity.xr.arfoundation@6.2.0": {
       "name": "com.unity.xr.arfoundation",
       "displayName": "AR Foundation",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.xr.arfoundation@ddd5a77596e0",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.xr.arfoundation@ddd5a77596e0",
       "fingerprint": "ddd5a77596e090d65c05b33ddc92105a90fab142",
       "editorCompatibility": "6000.0.0a1",
       "version": "6.2.0",
@@ -101,7 +101,7 @@
     "com.unity.xr.hands@1.6.2": {
       "name": "com.unity.xr.hands",
       "displayName": "XR Hands",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.xr.hands@0845fdeb6e37",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.xr.hands@0845fdeb6e37",
       "fingerprint": "0845fdeb6e37bfc5fb4bef6592e4d4194b37d393",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.6.2",
@@ -111,7 +111,7 @@
     "com.unity.xr.interaction.toolkit@3.2.1": {
       "name": "com.unity.xr.interaction.toolkit",
       "displayName": "XR Interaction Toolkit",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@76258c00be3e",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.xr.interaction.toolkit@76258c00be3e",
       "fingerprint": "76258c00be3ea4eb64bfddff79870b92092a74c7",
       "editorCompatibility": "2021.3.0a1",
       "version": "3.2.1",
@@ -121,7 +121,7 @@
     "com.unity.xr.management@4.5.2": {
       "name": "com.unity.xr.management",
       "displayName": "XR Plugin Management",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.xr.management@f589c7ba49ff",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.xr.management@f589c7ba49ff",
       "fingerprint": "f589c7ba49ff63cadb66fd77cdfb09f538674e1a",
       "editorCompatibility": "2021.3.0a1",
       "version": "4.5.2",
@@ -131,7 +131,7 @@
     "com.unity.xr.openxr@1.15.1": {
       "name": "com.unity.xr.openxr",
       "displayName": "OpenXR Plugin",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.xr.openxr@05fb1a7d75d1",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.xr.openxr@05fb1a7d75d1",
       "fingerprint": "05fb1a7d75d118139c283c8d76b7f99a655364a8",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.15.1",
@@ -141,7 +141,7 @@
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
       "displayName": "Accessibility",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.accessibility",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.accessibility",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -149,7 +149,7 @@
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
       "displayName": "AI",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.ai",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -157,7 +157,7 @@
     "com.unity.modules.androidjni@1.0.0": {
       "name": "com.unity.modules.androidjni",
       "displayName": "Android JNI",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.androidjni",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -165,7 +165,7 @@
     "com.unity.modules.animation@1.0.0": {
       "name": "com.unity.modules.animation",
       "displayName": "Animation",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.animation",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -173,7 +173,7 @@
     "com.unity.modules.assetbundle@1.0.0": {
       "name": "com.unity.modules.assetbundle",
       "displayName": "Asset Bundle",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.assetbundle",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -181,7 +181,7 @@
     "com.unity.modules.audio@1.0.0": {
       "name": "com.unity.modules.audio",
       "displayName": "Audio",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.audio",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -189,7 +189,7 @@
     "com.unity.modules.cloth@1.0.0": {
       "name": "com.unity.modules.cloth",
       "displayName": "Cloth",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.cloth",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -197,7 +197,7 @@
     "com.unity.modules.director@1.0.0": {
       "name": "com.unity.modules.director",
       "displayName": "Director",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.director",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.director",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -205,7 +205,7 @@
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
       "displayName": "Image Conversion",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.imageconversion",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -213,7 +213,7 @@
     "com.unity.modules.imgui@1.0.0": {
       "name": "com.unity.modules.imgui",
       "displayName": "IMGUI",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.imgui",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -221,7 +221,7 @@
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
       "displayName": "JSONSerialize",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.jsonserialize",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -229,7 +229,7 @@
     "com.unity.modules.particlesystem@1.0.0": {
       "name": "com.unity.modules.particlesystem",
       "displayName": "Particle System",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.particlesystem",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -237,7 +237,7 @@
     "com.unity.modules.physics@1.0.0": {
       "name": "com.unity.modules.physics",
       "displayName": "Physics",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.physics",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -245,7 +245,7 @@
     "com.unity.modules.physics2d@1.0.0": {
       "name": "com.unity.modules.physics2d",
       "displayName": "Physics 2D",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.physics2d",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -253,7 +253,7 @@
     "com.unity.modules.screencapture@1.0.0": {
       "name": "com.unity.modules.screencapture",
       "displayName": "Screen Capture",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.screencapture",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -261,7 +261,7 @@
     "com.unity.modules.terrain@1.0.0": {
       "name": "com.unity.modules.terrain",
       "displayName": "Terrain",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.terrain",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -269,7 +269,7 @@
     "com.unity.modules.terrainphysics@1.0.0": {
       "name": "com.unity.modules.terrainphysics",
       "displayName": "Terrain Physics",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.terrainphysics",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -277,7 +277,7 @@
     "com.unity.modules.tilemap@1.0.0": {
       "name": "com.unity.modules.tilemap",
       "displayName": "Tilemap",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.tilemap",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -285,7 +285,7 @@
     "com.unity.modules.ui@1.0.0": {
       "name": "com.unity.modules.ui",
       "displayName": "UI",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.ui",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -293,7 +293,7 @@
     "com.unity.modules.uielements@1.0.0": {
       "name": "com.unity.modules.uielements",
       "displayName": "UIElements",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.uielements",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -301,7 +301,7 @@
     "com.unity.modules.umbra@1.0.0": {
       "name": "com.unity.modules.umbra",
       "displayName": "Umbra",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.umbra",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -309,7 +309,7 @@
     "com.unity.modules.unityanalytics@1.0.0": {
       "name": "com.unity.modules.unityanalytics",
       "displayName": "Unity Analytics",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unityanalytics",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -317,7 +317,7 @@
     "com.unity.modules.unitywebrequest@1.0.0": {
       "name": "com.unity.modules.unitywebrequest",
       "displayName": "Unity Web Request",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unitywebrequest",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -325,7 +325,7 @@
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
       "displayName": "Unity Web Request Asset Bundle",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -333,7 +333,7 @@
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
       "displayName": "Unity Web Request Audio",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -341,7 +341,7 @@
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
       "displayName": "Unity Web Request Texture",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -349,7 +349,7 @@
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
       "displayName": "Unity Web Request WWW",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -357,7 +357,7 @@
     "com.unity.modules.vehicles@1.0.0": {
       "name": "com.unity.modules.vehicles",
       "displayName": "Vehicles",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.vehicles",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -365,7 +365,7 @@
     "com.unity.modules.video@1.0.0": {
       "name": "com.unity.modules.video",
       "displayName": "Video",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.video",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.video",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -373,7 +373,7 @@
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
       "displayName": "VR",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.vr",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -381,7 +381,7 @@
     "com.unity.modules.wind@1.0.0": {
       "name": "com.unity.modules.wind",
       "displayName": "Wind",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.wind",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -389,7 +389,7 @@
     "com.unity.modules.xr@1.0.0": {
       "name": "com.unity.modules.xr",
       "displayName": "XR",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.xr",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -397,7 +397,7 @@
     "com.unity.modules.subsystems@1.0.0": {
       "name": "com.unity.modules.subsystems",
       "displayName": "Subsystems",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.subsystems",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -405,7 +405,7 @@
     "com.unity.modules.hierarchycore@1.0.0": {
       "name": "com.unity.modules.hierarchycore",
       "displayName": "Hierarchy Core",
-      "resolvedPath": "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.9f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\com.unity.modules.hierarchycore",
+      "resolvedPath": "/home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.hierarchycore",
       "version": "1.0.0",
       "source": "builtin",
       "testable": false
@@ -413,7 +413,7 @@
     "com.unity.xr.core-utils@2.5.3": {
       "name": "com.unity.xr.core-utils",
       "displayName": "XR Core Utilities",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.xr.core-utils@f0450cbac8d6",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.xr.core-utils@f0450cbac8d6",
       "fingerprint": "f0450cbac8d66beb614cb1b4241eae977ee9990e",
       "editorCompatibility": "2021.3.0f1",
       "version": "2.5.3",
@@ -423,7 +423,7 @@
     "com.unity.xr.legacyinputhelpers@2.1.12": {
       "name": "com.unity.xr.legacyinputhelpers",
       "displayName": "XR Legacy Input Helpers",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@b7579e86f3b4",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.xr.legacyinputhelpers@b7579e86f3b4",
       "fingerprint": "b7579e86f3b456c909fda6b875fba7ab1eeb1322",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.1.12",
@@ -433,8 +433,8 @@
     "com.unity.ugui@2.0.0": {
       "name": "com.unity.ugui",
       "displayName": "Unity UI",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.ugui@7056cb05de4c",
-      "fingerprint": "7056cb05de4c8d42fc864130edd83b3a093a8505",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.ugui@eec607685e06",
+      "fingerprint": "eec607685e067940f4b3d09f8e59bfd54330697f",
       "editorCompatibility": "2019.2.0a1",
       "version": "2.0.0",
       "source": "builtin",
@@ -443,7 +443,7 @@
     "com.unity.mathematics@1.3.2": {
       "name": "com.unity.mathematics",
       "displayName": "Mathematics",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.mathematics@8017b507cc74",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.mathematics@8017b507cc74",
       "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.3.2",
@@ -453,7 +453,7 @@
     "com.unity.editorcoroutines@1.0.0": {
       "name": "com.unity.editorcoroutines",
       "displayName": "Editor Coroutines",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.editorcoroutines@7d48783e7b8c",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.editorcoroutines@7d48783e7b8c",
       "fingerprint": "7d48783e7b8cfcee5f8ef9ba787ed0d9dad4ebca",
       "editorCompatibility": "2018.1.0a1",
       "version": "1.0.0",
@@ -463,8 +463,8 @@
     "com.unity.render-pipelines.core@17.2.0": {
       "name": "com.unity.render-pipelines.core",
       "displayName": "Scriptable Render Pipeline Core",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.render-pipelines.core@04755ad51d99",
-      "fingerprint": "04755ad51d99c8dd3ab30506e3040c19433ec456",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.render-pipelines.core@1974f5b736d7",
+      "fingerprint": "1974f5b736d7af2ca43a027cd0e5ccd18c93b063",
       "editorCompatibility": "6000.2.0a1",
       "version": "17.2.0",
       "source": "builtin",
@@ -473,8 +473,8 @@
     "com.unity.shadergraph@17.2.0": {
       "name": "com.unity.shadergraph",
       "displayName": "Shader Graph",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.shadergraph@2c9221ffedf4",
-      "fingerprint": "2c9221ffedf48eb0ff60df53ff79906f97dc3713",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.shadergraph@0c818e23aac5",
+      "fingerprint": "0c818e23aac523410f1080bec6ce7f9b9f74445a",
       "editorCompatibility": "6000.2.0a1",
       "version": "17.2.0",
       "source": "builtin",
@@ -483,8 +483,8 @@
     "com.unity.render-pipelines.universal-config@17.0.3": {
       "name": "com.unity.render-pipelines.universal-config",
       "displayName": "Universal Render Pipeline Config",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.render-pipelines.universal-config@8dc1aab4af1d",
-      "fingerprint": "8dc1aab4af1d718781689a36ed5231a35ad1a524",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.render-pipelines.universal-config@dbe3fd082d8f",
+      "fingerprint": "dbe3fd082d8fb31428ea5de3e6074910576c83c9",
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
       "source": "builtin",
@@ -493,7 +493,7 @@
     "com.unity.settings-manager@2.1.0": {
       "name": "com.unity.settings-manager",
       "displayName": "Settings Manager",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.settings-manager@41738c275190",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.settings-manager@41738c275190",
       "fingerprint": "41738c27519039c335849eb78949382f4d7a3544",
       "editorCompatibility": "2022.3.0a1",
       "version": "2.1.0",
@@ -503,7 +503,7 @@
     "com.unity.ide.visualstudio@2.0.25": {
       "name": "com.unity.ide.visualstudio",
       "displayName": "Visual Studio Editor",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.ide.visualstudio@74aa435fc4bb",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.ide.visualstudio@74aa435fc4bb",
       "fingerprint": "74aa435fc4bb41890f400130ec80f271d1292fd4",
       "editorCompatibility": "2021.3.0a1",
       "version": "2.0.25",
@@ -513,7 +513,7 @@
     "com.unity.ide.rider@3.0.38": {
       "name": "com.unity.ide.rider",
       "displayName": "JetBrains Rider Editor",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.ide.rider@1f60b3138684",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.ide.rider@1f60b3138684",
       "fingerprint": "1f60b3138684c97af67aa8d911b1632ba916d29d",
       "editorCompatibility": "2021.3.0a1",
       "version": "3.0.38",
@@ -523,7 +523,7 @@
     "com.unity.performance.profile-analyzer@1.2.3": {
       "name": "com.unity.performance.profile-analyzer",
       "displayName": "Profile Analyzer",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.performance.profile-analyzer@a68e7bc84997",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.performance.profile-analyzer@a68e7bc84997",
       "fingerprint": "a68e7bc849973d943853204178d08a2bc7656ffe",
       "editorCompatibility": "2020.3.0a1",
       "version": "1.2.3",
@@ -533,8 +533,8 @@
     "com.unity.test-framework@1.6.0": {
       "name": "com.unity.test-framework",
       "displayName": "Test Framework",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.test-framework@d97b7cd61ded",
-      "fingerprint": "d97b7cd61dedd05f0fbaa425a40bd39d098f5cfc",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.test-framework@ec3b9352d485",
+      "fingerprint": "ec3b9352d4857ad21949bab695ad12ab73fc6af6",
       "editorCompatibility": "6000.0.44f1",
       "version": "1.6.0",
       "source": "builtin",
@@ -543,7 +543,7 @@
     "com.unity.testtools.codecoverage@1.2.6": {
       "name": "com.unity.testtools.codecoverage",
       "displayName": "Code Coverage",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.testtools.codecoverage@205a02cbcb39",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.testtools.codecoverage@205a02cbcb39",
       "fingerprint": "205a02cbcb39584f20b51c49b853047aceb3a3a7",
       "editorCompatibility": "2019.3.0a1",
       "version": "1.2.6",
@@ -553,7 +553,7 @@
     "com.unity.searcher@4.9.3": {
       "name": "com.unity.searcher",
       "displayName": "Searcher",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.searcher@1e17ce91558d",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.searcher@1e17ce91558d",
       "fingerprint": "1e17ce91558d1d9127554adc03d275f39a7466a2",
       "editorCompatibility": "2019.1.0a1",
       "version": "4.9.3",
@@ -563,7 +563,7 @@
     "com.unity.burst@1.8.25": {
       "name": "com.unity.burst",
       "displayName": "Burst",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.burst@1df634d836b8",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.burst@1df634d836b8",
       "fingerprint": "1df634d836b8106f13dc82401a91b336d615a874",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.8.25",
@@ -573,7 +573,7 @@
     "com.unity.collections@2.6.2": {
       "name": "com.unity.collections",
       "displayName": "Collections",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.collections@aea9d3bd5e19",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.collections@aea9d3bd5e19",
       "fingerprint": "aea9d3bd5e19f2a90fc3a39919974a5f3613a159",
       "editorCompatibility": "2022.3.20f1",
       "version": "2.6.2",
@@ -583,8 +583,8 @@
     "com.unity.rendering.light-transport@1.0.1": {
       "name": "com.unity.rendering.light-transport",
       "displayName": "Unity Light Transport Library",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.rendering.light-transport@2c9279f90d7c",
-      "fingerprint": "2c9279f90d7c8dfb6e76e3f90b6b3be1cafabfbc",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.rendering.light-transport@b87e8bb2ed63",
+      "fingerprint": "b87e8bb2ed63244954625c205361835f3289327c",
       "editorCompatibility": "2023.3.0b1",
       "version": "1.0.1",
       "source": "builtin",
@@ -593,8 +593,8 @@
     "com.unity.ext.nunit@2.0.5": {
       "name": "com.unity.ext.nunit",
       "displayName": "Custom NUnit",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.ext.nunit@031a54704bff",
-      "fingerprint": "031a54704bffe39e6a0324909f8eaa4565bdebf2",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.ext.nunit@b16e6d09cd93",
+      "fingerprint": "b16e6d09cd93f527249a1f05a86ef45695dc934b",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.5",
       "source": "builtin",
@@ -603,7 +603,7 @@
     "com.unity.nuget.mono-cecil@1.11.5": {
       "name": "com.unity.nuget.mono-cecil",
       "displayName": "Mono Cecil",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.nuget.mono-cecil@d78732e851eb",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.nuget.mono-cecil@d78732e851eb",
       "fingerprint": "d78732e851eb42273c8e4d97993d3a94b207e570",
       "editorCompatibility": "2019.4.0a1",
       "version": "1.11.5",
@@ -613,7 +613,7 @@
     "com.unity.test-framework.performance@3.2.0": {
       "name": "com.unity.test-framework.performance",
       "displayName": "Performance testing API",
-      "resolvedPath": "C:\\Users\\pr0gr\\Documents\\CS\\Good-News-VR\\client\\Good News VR\\Library\\PackageCache\\com.unity.test-framework.performance@0840f58e4562",
+      "resolvedPath": "/home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News VR/Library/PackageCache/com.unity.test-framework.performance@0840f58e4562",
       "fingerprint": "0840f58e45624f7677679a0f8b6a5137689e607f",
       "editorCompatibility": "2020.3.0a1",
       "version": "3.2.0",

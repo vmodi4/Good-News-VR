@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 import json
 from elevenlabs.client import ElevenLabs
 from elevenlabs import save
+from pathlib import Path
 
 load_dotenv()
 
@@ -107,18 +108,22 @@ async def get_good_news():
             output_format="mp3_44100_128",
         )
 
-        arcticle_id = selected[id]["id"]
-        save(audio, f"./audio_cache/track_{arcticle_id}.mp3")
+        article_id = selected[id]["id"]
+        save(audio, f"./audio_cache/track_{article_id}.mp3")
+        article["audio_id"] = article_id
 
+    print(good_news_json)
     return {"good_news": good_news_json}
 
 
-@app.get("/audio_cache/{audio_id}")
+@app.get("/audio/{audio_id}")
 async def get_audio(audio_id: str):
-    file_path = f"./audio_cache/{audio_id}.mp3"
+    base_path = Path("./audio_cache/")
+    file_path = base_path / f"track_{audio_id}.mp3"
+    print(file_path)
 
     # Check if file exists and is an MP3
-    if file_path.exists() and file_path.suffix == ".mp3":
+    if file_path.exists():
         return FileResponse(file_path, media_type="audio/mpeg", filename=audio_id)
     else:
         raise HTTPException(status_code=404, detail="MP3 file not found")

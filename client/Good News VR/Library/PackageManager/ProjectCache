@@ -1,25 +1,28 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/pr0gr/Documents/CS/Good-News-VR/client/Good News VR/Packages/manifest.json
+    m_FilePath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+      News VR/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638970552582791310
+      ticks: 638970637580000000
     m_Hash: 3701707330
   m_LockFileStatus:
-    m_FilePath: C:/Users/pr0gr/Documents/CS/Good-News-VR/client/Good News VR/Packages/packages-lock.json
+    m_FilePath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+      News VR/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638970552582791310
+      ticks: 638970637580000000
     m_Hash: 2093004737
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/pr0gr/Documents/CS/Good-News-VR/client/Good News VR/Packages
+m_ProjectPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good News
+  VR/Packages
 m_EditorVersion: 6000.2.9f1 (e0c4e791ab71)
 m_ResolvedPackages:
 - packageId: com.unity.2d.sprite@1.0.0
@@ -27,7 +30,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.2d.sprite@331abd9a1e2f
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.2d.sprite@ec779eb7e23a
   assetPath: Packages/com.unity.2d.sprite
   name: com.unity.2d.sprite
   displayName: 2D Sprite
@@ -91,7 +95,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: 331abd9a1e2ff424a1ef2626e16936071ab7ce3d
+  fingerprint: ec779eb7e23a28a2548503f223b3ca124d5d91db
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.0
@@ -107,7 +111,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.2
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.feature.development@767aadbc6eb7
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.feature.development@767aadbc6eb7
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -218,7 +223,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.14.2
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.inputsystem@be6c4fd0abf5
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.inputsystem@be6c4fd0abf5
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -378,7 +384,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 5.0.2
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.learn.iet-framework@c18a35c1d1a1
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.learn.iet-framework@c18a35c1d1a1
   assetPath: Packages/com.unity.learn.iet-framework
   name: com.unity.learn.iet-framework
   displayName: Tutorial Framework
@@ -532,7 +539,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.multiplayer.center@f5e57a8bed06
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -612,7 +620,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: f3fb577b3546594b97b8cc34307cd621f60f1c73
+  fingerprint: f5e57a8bed0637672c58142b1bfd7e6fea03746c
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.0
@@ -628,7 +636,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.2.0
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.render-pipelines.universal@bc6f352be672
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.render-pipelines.universal@9a83329af09c
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -739,7 +748,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: bc6f352be672eba8ef5526e9dda488edc330c691
+  fingerprint: 9a83329af09c9e6fbd466bdf28a02bd4bcea526c
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 17.2.0
@@ -755,7 +764,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.9
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.timeline@6b9e48457ddb
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.timeline@6b9e48457ddb
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -953,7 +963,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.1
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.xr.androidxr-openxr@077cd026549f
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.xr.androidxr-openxr@077cd026549f
   assetPath: Packages/com.unity.xr.androidxr-openxr
   name: com.unity.xr.androidxr-openxr
   displayName: Unity OpenXR Android XR
@@ -1105,7 +1116,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 6.2.0
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.xr.arfoundation@ddd5a77596e0
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.xr.arfoundation@ddd5a77596e0
   assetPath: Packages/com.unity.xr.arfoundation
   name: com.unity.xr.arfoundation
   displayName: AR Foundation
@@ -1406,7 +1418,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.2
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.xr.hands@0845fdeb6e37
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.xr.hands@0845fdeb6e37
   assetPath: Packages/com.unity.xr.hands
   name: com.unity.xr.hands
   displayName: XR Hands
@@ -1563,7 +1576,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.2.1
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.xr.interaction.toolkit@76258c00be3e
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.xr.interaction.toolkit@76258c00be3e
   assetPath: Packages/com.unity.xr.interaction.toolkit
   name: com.unity.xr.interaction.toolkit
   displayName: XR Interaction Toolkit
@@ -1796,7 +1810,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.5.2
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.xr.management@f589c7ba49ff
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.xr.management@f589c7ba49ff
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -1969,7 +1984,8 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.15.1
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.xr.openxr@05fb1a7d75d1
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.xr.openxr@05fb1a7d75d1
   assetPath: Packages/com.unity.xr.openxr
   name: com.unity.xr.openxr
   displayName: OpenXR Plugin
@@ -2138,7 +2154,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.accessibility
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.accessibility
   assetPath: Packages/com.unity.modules.accessibility
   name: com.unity.modules.accessibility
   displayName: Accessibility
@@ -2215,7 +2231,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -2292,7 +2308,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -2368,7 +2384,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -2445,7 +2461,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -2522,7 +2538,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -2599,7 +2615,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2680,7 +2696,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.director
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2765,7 +2781,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2842,7 +2858,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2919,7 +2935,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2996,7 +3012,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -3073,7 +3089,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -3150,7 +3166,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -3227,7 +3243,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -3308,7 +3324,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -3385,7 +3401,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -3470,7 +3486,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -3550,7 +3566,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -3627,7 +3643,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -3724,7 +3740,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -3801,7 +3817,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -3885,7 +3901,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -3962,7 +3978,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -4047,7 +4063,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -4132,7 +4148,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -4217,7 +4233,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -4318,7 +4334,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -4399,7 +4415,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.video
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -4488,7 +4504,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -4579,7 +4595,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -4656,7 +4672,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -4745,7 +4761,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -4826,7 +4842,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Program Files\Unity\Hub\Editor\6000.2.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.hierarchycore
+  resolvedPath: /home/sammy/Unity/Hub/Editor/6000.2.9f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.hierarchycore
   assetPath: Packages/com.unity.modules.hierarchycore
   name: com.unity.modules.hierarchycore
   displayName: Hierarchy Core
@@ -4903,7 +4919,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.5.3
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.xr.core-utils@f0450cbac8d6
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.xr.core-utils@f0450cbac8d6
   assetPath: Packages/com.unity.xr.core-utils
   name: com.unity.xr.core-utils
   displayName: XR Core Utilities
@@ -5029,7 +5046,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.12
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.xr.legacyinputhelpers@b7579e86f3b4
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.xr.legacyinputhelpers@b7579e86f3b4
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -5159,7 +5177,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.0
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.ugui@7056cb05de4c
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.ugui@eec607685e06
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -5239,7 +5258,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: 7056cb05de4c8d42fc864130edd83b3a093a8505
+  fingerprint: eec607685e067940f4b3d09f8e59bfd54330697f
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 2.0.0
@@ -5255,7 +5274,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.2
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.mathematics@8017b507cc74
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.mathematics@8017b507cc74
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -5356,7 +5376,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.editorcoroutines@7d48783e7b8c
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.editorcoroutines@7d48783e7b8c
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -5445,7 +5466,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.2.0
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.render-pipelines.core@04755ad51d99
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.render-pipelines.core@1974f5b736d7
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -5555,7 +5577,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: 04755ad51d99c8dd3ab30506e3040c19433ec456
+  fingerprint: 1974f5b736d7af2ca43a027cd0e5ccd18c93b063
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 17.2.0
@@ -5571,7 +5593,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.2.0
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.shadergraph@2c9221ffedf4
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.shadergraph@0c818e23aac5
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -5671,7 +5694,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: 2c9221ffedf48eb0ff60df53ff79906f97dc3713
+  fingerprint: 0c818e23aac523410f1080bec6ce7f9b9f74445a
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 17.2.0
@@ -5687,7 +5710,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.render-pipelines.universal-config@8dc1aab4af1d
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.render-pipelines.universal-config@dbe3fd082d8f
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -5779,7 +5803,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: 8dc1aab4af1d718781689a36ed5231a35ad1a524
+  fingerprint: dbe3fd082d8fb31428ea5de3e6074910576c83c9
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 17.0.3
@@ -5795,7 +5819,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.1.0
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.settings-manager@41738c275190
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.settings-manager@41738c275190
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -5884,7 +5909,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.25
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.ide.visualstudio@74aa435fc4bb
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.ide.visualstudio@74aa435fc4bb
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -5998,7 +6024,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.38
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.ide.rider@1f60b3138684
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.ide.rider@1f60b3138684
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -6129,7 +6156,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.3
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.performance.profile-analyzer@a68e7bc84997
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.performance.profile-analyzer@a68e7bc84997
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -6226,7 +6254,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.6.0
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.test-framework@d97b7cd61ded
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.test-framework@ec3b9352d485
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -6300,7 +6329,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: d97b7cd61dedd05f0fbaa425a40bd39d098f5cfc
+  fingerprint: ec3b9352d4857ad21949bab695ad12ab73fc6af6
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.6.0
@@ -6316,7 +6345,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.testtools.codecoverage@205a02cbcb39
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.testtools.codecoverage@205a02cbcb39
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -6451,7 +6481,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.3
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.searcher@1e17ce91558d
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.searcher@1e17ce91558d
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -6550,7 +6581,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.25
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.burst@1df634d836b8
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.burst@1df634d836b8
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -6784,7 +6816,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.6.2
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.collections@aea9d3bd5e19
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.collections@aea9d3bd5e19
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -6968,7 +7001,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.1
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.rendering.light-transport@2c9279f90d7c
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.rendering.light-transport@b87e8bb2ed63
   assetPath: Packages/com.unity.rendering.light-transport
   name: com.unity.rendering.light-transport
   displayName: Unity Light Transport Library
@@ -7058,7 +7092,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: 2c9279f90d7c8dfb6e76e3f90b6b3be1cafabfbc
+  fingerprint: b87e8bb2ed63244954625c205361835f3289327c
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 1.0.1
@@ -7074,7 +7108,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.ext.nunit@031a54704bff
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.ext.nunit@b16e6d09cd93
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -7138,7 +7173,7 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
-  fingerprint: 031a54704bffe39e6a0324909f8eaa4565bdebf2
+  fingerprint: b16e6d09cd93f527249a1f05a86ef45695dc934b
   editorCompatibility:
     compatibilityLevel: 0
     minimumPackageVersion: 2.0.5
@@ -7154,7 +7189,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.5
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.nuget.mono-cecil@d78732e851eb
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.nuget.mono-cecil@d78732e851eb
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -7249,7 +7285,8 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.2.0
   source: 1
-  resolvedPath: C:\Users\pr0gr\Documents\CS\Good-News-VR\client\Good News VR\Library\PackageCache\com.unity.test-framework.performance@0840f58e4562
+  resolvedPath: /home/sammy/Nextcloud/college/HackWashU/Good-News-VR/client/Good
+    News VR/Library/PackageCache/com.unity.test-framework.performance@0840f58e4562
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API
@@ -7387,4 +7424,4 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
-m_BuiltInPackagesHash: ae04f2edf7fe15fbc6802833077eb0978c00d62c
+m_BuiltInPackagesHash: 85288231d066e3d5357f67fdf3e549358663c6ef
