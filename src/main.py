@@ -67,9 +67,8 @@ async def get_good_news():
         api_key=os.getenv("ELEVENLABS_API_KEY"),
     )
 
-    for id, article in enumerate(good_news_json.values()):
+    for id, article in enumerate(good_news_json):
         prompt = ""
-
         for field in article.values():
             prompt += field
 
@@ -80,7 +79,8 @@ async def get_good_news():
             output_format="mp3_44100_128",
         )
 
-        with open(f"./audio_cache/{id}.mp3") as audio_file:
+        arcticle_id = selected[id]["id"]
+        with open(f"./audio_cache/{arcticle_id}.mp3") as audio_file:
             audio_file.write(audio)
 
     return {"good_news": good_news_json}
