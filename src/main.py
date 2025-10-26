@@ -1,7 +1,7 @@
 # create the main API here
 
 import random
-from fastapi import FastAPI, requests, HTTPException
+from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from db_client import supabase
 from google import genai
@@ -122,10 +122,3 @@ async def get_audio(audio_id: str):
         return FileResponse(file_path, media_type="audio/mpeg", filename=audio_id)
     else:
         raise HTTPException(status_code=404, detail="MP3 file not found")
-
-
-# two helper functions:
-
-# first will call the database client t o
-
-# print("Database client imported successfully")

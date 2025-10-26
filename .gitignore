@@ -324,6 +324,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Python bytecode
+__pycache__/
+*.pyc
+
+
 ## AUDIO FILES
 audio_cache
 audio_cache/
