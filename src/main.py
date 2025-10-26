@@ -12,9 +12,6 @@ load_dotenv()
 
 api = os.getenv("GEMINI_API_KEY")
 
-
-
-
 app = FastAPI()
 
 used_ids = set()  
