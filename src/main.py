@@ -9,6 +9,7 @@ import os
 from dotenv import load_dotenv
 import json
 from elevenlabs.client import ElevenLabs
+from elevenlabs import save
 
 load_dotenv()
 
@@ -38,10 +39,42 @@ async def get_good_news():
     # fix as this prob not effcient, could be red flag if they look at code- also don'
 
     # now create prompt
+    prompt = f"""
 
-    prompt = f"If I just give you a snippet of good news- like a headline(for example: Google has progressed in Quantum computing by creating an echo algorithm- could you perform RAG and get more information regarding this by making an output that is in JSON- and since JSON follows key value semantics here is an example: headline: - this will the first key, it will take the snippet of good information given and make it sound more good, the second key, third, and fourth key will represent more information - and each key will only have one extra sentence of information(5-10 words). Also, the headline should be around the same length. Here are the snippets: {selected}  "
+    You will receive a short positive news headline (for example: "Google advances quantum computing with new echo algorithm").
+
+    Using retrieval and reasoning, expand on this topic by generating one JSON object.
+
+     
+
+    The JSON must have this exact structure:
+
+     
+
+        {{
+
+          "headline": "...",
+          "info1": "...",
+          "info2": "...",
+          "info3": "..."
+
+        }}
+
+     
+
+    Use the snippet provided here: {selected}
+
+    Provide the json structure for each snipped provided. There should be three headlines and 9 info fields in total.
+
+    Make each headline and info field a MAX of 9-10 words.
+
+     
+
+    Return only valid JSON — no markdown, explanations, or extra text.
+
+    """
+
     # try this for now.
-
     client = genai.Client(api_key=api)
     response = client.models.generate_content(
         model="gemini-2.5-flash",
@@ -56,12 +89,7 @@ async def get_good_news():
         clean_text = clean_text[4:].strip()
 
     good_news_json = json.loads(clean_text)
-
-    ## SAMPLE RETURN
-    #     "headline": "Google achieves a significant breakthrough in Quantum Computing with an innovative echo algorithm.",
-    # "more_info_1": "This advancement dramatically improves the stability of quantum systems.",
-    # "more_info_2": "The echo algorithm efficiently corrects crucial quantum errors.",
-    # "more_info_3": "It brings us closer to practical, fault-tolerant quantum computers."
+    print(good_news_json)
 
     elevenlabs = ElevenLabs(
         api_key=os.getenv("ELEVENLABS_API_KEY"),
@@ -80,8 +108,7 @@ async def get_good_news():
         )
 
         arcticle_id = selected[id]["id"]
-        with open(f"./audio_cache/{arcticle_id}.mp3") as audio_file:
-            audio_file.write(audio)
+        save(audio, f"./audio_cache/track_{arcticle_id}.mp3")
 
     return {"good_news": good_news_json}
 
