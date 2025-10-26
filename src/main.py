@@ -1,20 +1,21 @@
 # create the main API here
+
 import random
-from fastapi import FastAPI, requests
+from fastapi import FastAPI, requests, HTTPException
+from fastapi.responses import FileResponse
 from db_client import supabase
 from google import genai
 import os
 from dotenv import load_dotenv
 import json
+from elevenlabs.client import ElevenLabs
 
 load_dotenv()
 
 api = os.getenv("GEMINI_API_KEY")
-
 app = FastAPI()
-
-used_ids = set()
 # this will track which have been used- regardless of the function call
+used_ids = set()
 
 
 @app.get("/")
@@ -56,7 +57,44 @@ async def get_good_news():
 
     good_news_json = json.loads(clean_text)
 
+    ## SAMPLE RETURN
+    #     "headline": "Google achieves a significant breakthrough in Quantum Computing with an innovative echo algorithm.",
+    # "more_info_1": "This advancement dramatically improves the stability of quantum systems.",
+    # "more_info_2": "The echo algorithm efficiently corrects crucial quantum errors.",
+    # "more_info_3": "It brings us closer to practical, fault-tolerant quantum computers."
+
+    elevenlabs = ElevenLabs(
+        api_key=os.getenv("ELEVENLABS_API_KEY"),
+    )
+
+    for id, article in enumerate(good_news_json.values()):
+        prompt = ""
+
+        for field in article.values():
+            prompt += field
+
+        audio = elevenlabs.text_to_speech.convert(
+            text=prompt,
+            voice_id="JBFqnCBsd6RMkjVDRZzb",
+            model_id="eleven_multilingual_v2",
+            output_format="mp3_44100_128",
+        )
+
+        with open(f"./audio_cache/{id}.mp3") as audio_file:
+            audio_file.write(audio)
+
     return {"good_news": good_news_json}
+
+
+@app.get("/audio_cache/{audio_id}")
+async def get_audio(audio_id: str):
+    file_path = f"./audio_cache/{audio_id}.mp3"
+
+    # Check if file exists and is an MP3
+    if file_path.exists() and file_path.suffix == ".mp3":
+        return FileResponse(file_path, media_type="audio/mpeg", filename=audio_id)
+    else:
+        raise HTTPException(status_code=404, detail="MP3 file not found")
 
 
 # two helper functions:
