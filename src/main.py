@@ -1,5 +1,4 @@
 # create the main API here
-
 import random
 from fastapi import FastAPI, requests
 from db_client import supabase
@@ -8,32 +7,29 @@ import os
 from dotenv import load_dotenv
 import json
 
-load_dotenv() 
+load_dotenv()
 
 api = os.getenv("GEMINI_API_KEY")
 
 app = FastAPI()
 
-used_ids = set()  
+used_ids = set()
 # this will track which have been used- regardless of the function call
+
 
 @app.get("/")
 async def get_good_news():
     all_snippets = supabase.table("Snippets").select("*").execute()
-    
-    snippets = [snippet for snippet in all_snippets.data if snippet['id'] not in used_ids]
+
+    snippets = [
+        snippet for snippet in all_snippets.data if snippet["id"] not in used_ids
+    ]
 
     selected = random.sample(snippets, min(3, len(snippets)))
     for snippet in selected:
-        used_ids.add(snippet['id'])
+        used_ids.add(snippet["id"])
 
-        
-    
-    
     # need to only get 2-3 snippets, load them in the background
-
-    
-
 
     # now select 3 random snippets
 
@@ -47,14 +43,14 @@ async def get_good_news():
 
     client = genai.Client(api_key=api)
     response = client.models.generate_content(
-    model="gemini-2.5-flash",
-    contents=f"""{prompt} """,
-)
+        model="gemini-2.5-flash",
+        contents=f"""{prompt} """,
+    )
 
     my_string = response.text
 
     clean_text = my_string.strip("` \n")
-    
+
     if clean_text.lower().startswith("json"):
         clean_text = clean_text[4:].strip()
 
@@ -67,4 +63,4 @@ async def get_good_news():
 
 # first will call the database client t o
 
-#print("Database client imported successfully")
+# print("Database client imported successfully")
