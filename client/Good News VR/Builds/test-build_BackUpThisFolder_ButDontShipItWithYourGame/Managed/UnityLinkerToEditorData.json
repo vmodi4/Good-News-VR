@@ -71,7 +71,9 @@
           },
           {
             "name": "AudioClip",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Main.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -91,13 +93,17 @@
           },
           {
             "name": "AudioResource",
-            "scenes": [],
-            "dependencyType": 1,
+            "scenes": [
+              "Assets/Scenes/Main.unity"
+            ],
+            "dependencyType": 0,
             "icon": null
           },
           {
             "name": "AudioSource",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Main.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -931,13 +937,17 @@
         "dependencies": [
           {
             "name": "ParticleSystem",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Main.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "ParticleSystemRenderer",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Main.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           }
@@ -974,9 +984,7 @@
           },
           {
             "name": "MeshCollider",
-            "scenes": [
-              "Assets/Scenes/Main.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -994,7 +1002,9 @@
           },
           {
             "name": "SphereCollider",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Main.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -1425,7 +1435,9 @@
           },
           {
             "name": "CanvasGroup",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Main.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
