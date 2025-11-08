@@ -22,11 +22,6 @@ public class textboxManager : MonoBehaviour
         }
     }
 
-    void Start()
-    {
-        ShowPanel("Welcome", "This is the introductory panel.");
-    }
-
     /// <summary>
     /// Sets text and fades panel in
     /// </summary>

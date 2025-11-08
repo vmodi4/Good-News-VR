@@ -263,13 +263,33 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4a9cddcf201630745b3afec0fb35bb5a, type: 3}
       insertIndex: -1
       addedObject: {fileID: 31450080}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4a9cddcf201630745b3afec0fb35bb5a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 88995344}
   m_SourcePrefab: {fileID: 100100000, guid: 4a9cddcf201630745b3afec0fb35bb5a, type: 3}
 --- !u!4 &88995342 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4a9cddcf201630745b3afec0fb35bb5a, type: 3}
   m_PrefabInstance: {fileID: 88995341}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &88995343 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4a9cddcf201630745b3afec0fb35bb5a, type: 3}
+  m_PrefabInstance: {fileID: 88995341}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &88995344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 88995343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a789ab46ab99c94e8f463fd500bc1c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
 --- !u!1 &98790454
 GameObject:
   m_ObjectHideFlags: 0
@@ -5255,6 +5275,7 @@ GameObject:
   - component: {fileID: 316265414}
   - component: {fileID: 316265413}
   - component: {fileID: 316265412}
+  - component: {fileID: 316265416}
   m_Layer: 0
   m_Name: Skysphere
   m_TagString: Untagged
@@ -5354,6 +5375,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &316265416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 316265411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49d8515457ee4704383f8e495f1a573a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
 --- !u!1001 &338259295
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5680,6 +5713,148 @@ CanvasGroup:
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+--- !u!1 &761636072
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 761636075}
+  - component: {fileID: 761636074}
+  - component: {fileID: 761636073}
+  m_Layer: 0
+  m_Name: Narration
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &761636073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761636072}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f416fc783267b304583dac8977f5c3f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+--- !u!82 &761636074
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761636072}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &761636075
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 761636072}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.67338, y: 0, z: -4.27372}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &818647830
 GameObject:
   m_ObjectHideFlags: 0
@@ -5739,12 +5914,12 @@ GameObject:
   - component: {fileID: 954580837}
   - component: {fileID: 954580840}
   m_Layer: 0
-  m_Name: Headline
+  m_Name: Meditation Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &954580837
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5928,6 +6103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1048765708}
   - component: {fileID: 1048765707}
+  - component: {fileID: 1048765709}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -6015,6 +6191,35 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!114 &1048765709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1048765706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalLightData
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_CustomShadowLayers: 0
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
+  m_RenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_ShadowRenderingLayersMask:
+    serializedVersion: 0
+    m_Bits: 1
+  m_Version: 4
+  m_LightLayerMask: 1
+  m_ShadowLayerMask: 1
+  m_RenderingLayers: 1
+  m_ShadowRenderingLayers: 1
 --- !u!1 &1200225155
 GameObject:
   m_ObjectHideFlags: 0
@@ -6143,10 +6348,62 @@ CanvasGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1200225155}
   m_Enabled: 1
-  m_Alpha: 1
+  m_Alpha: 0
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+--- !u!1 &1306682872
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1306682874}
+  - component: {fileID: 1306682873}
+  m_Layer: 0
+  m_Name: News Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1306682873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306682872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf2a65df04d83247be8d8ece51da5a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NewsManager
+  newsPanels: []
+  apiUrl: https://test.sneakycloud.xyz
+  em: {fileID: 1795739538}
+  nr:
+    headline: 
+    more_info_1: 
+    more_info_2: 
+    more_info_3: 
+--- !u!4 &1306682874
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306682872}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.18297, y: 0, z: -3.8657}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1795739537
 GameObject:
   m_ObjectHideFlags: 0
@@ -6176,8 +6433,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfc053693a1ea4f4e9811e2c9f61f659, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  displayTextInstance: {fileID: 954580840}
-  textboxManagerInstance: {fileID: 1918081087}
+  mtm: {fileID: 954580840}
+  tm: {fileID: 1918081087}
+  sm: {fileID: 316265416}
+  fs: {fileID: 88995344}
+  particles: {fileID: 98790454}
+  floor: {fileID: 88995343}
+  nm: {fileID: 761636073}
+  nr:
+    headline: 
+    more_info_1: 
+    more_info_2: 
+    more_info_3: 
+  boxBreathingClip: {fileID: 8300000, guid: 7f38c96d3aa009e4e9489f82de1efb59, type: 3}
+  transitionClip: {fileID: 8300000, guid: 15cf46f8c5325f743964633d2dc9d6ef, type: 3}
+  newsClip1: {fileID: 8300000, guid: 9e6d971e48be0404ba3f1b83e8dbd7d0, type: 3}
+  newsClip2: {fileID: 8300000, guid: cce8f0238346bf249858f2263e7730a2, type: 3}
+  newsClip3: {fileID: 8300000, guid: da6970555dbffc644a461f1017278d0b, type: 3}
+  newsItems:
+  - headline: Nigerian sea turtles rescued from nets by conservationists
+    info1: Endangered sea turtles freed from dangerous fishing gear
+    info2: Local conservation organization led the successful rescue effort
+    info3: Protects marine biodiversity, supports turtle population survival
+    audio_id: 0
+  - headline: Scientists find lungs' hidden self healing regeneration switch
+    info1: Discovery could lead to new respiratory therapies
+    info2: Understanding natural repair mechanism is key
+    info3: Insights offer hope for damaged lung treatment
+    audio_id: 1
+  - headline: Indigeous-led dam removal restores major US river
+    info1: Restores fish migration; improves water quality, biodiversity
+    info2: Ackgnowledges indigeous ecological knowledge, sovereignty
+    info3: Model for future environmental restoration and justice
+    audio_id: 1
 --- !u!4 &1795739539
 Transform:
   m_ObjectHideFlags: 0
@@ -6461,7 +6749,7 @@ GameObject:
   - component: {fileID: 2027503467}
   - component: {fileID: 2027503466}
   m_Layer: 0
-  m_Name: GlobalAudio
+  m_Name: Music
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6595,3 +6883,5 @@ SceneRoots:
   - {fileID: 1918081086}
   - {fileID: 88995341}
   - {fileID: 2027503467}
+  - {fileID: 761636075}
+  - {fileID: 1306682874}
